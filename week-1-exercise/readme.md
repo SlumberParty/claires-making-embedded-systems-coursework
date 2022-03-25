@@ -38,6 +38,10 @@ changing colors/patterns with a tilt of the head, nodding etc. It has a button t
 by 2 CR2032 coin cell batteries, making sourcing power easy for a commercial user. 
 </p>
 
+<h1 align="center">
+<b>Diagram-o-rama</b>
+</h1>
+
 <p align="center">
 Hardware Block Diagram<br>
   <img src="https://user-images.githubusercontent.com/45607652/160181144-425343d8-cda8-45dc-a72d-0a27a508d539.png" width="600" height="600">
