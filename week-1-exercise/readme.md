@@ -1,4 +1,6 @@
-## Glowing Cat Ears PCB
+<h1 align="center">
+<b>Glowing Cat Ears PCB</b>
+</h1>
 
 <p align="center">
 Impurrtent context: Once upon a time I created light up costume cat ears and sold them at events, for years. Purrfessionally. They were very popular. 
@@ -30,8 +32,11 @@ Rough Sketch-o-rama<br>
   <img src="https://user-images.githubusercontent.com/45607652/160163077-4bf79e8f-3458-4c7b-8a96-d8dd5b13458c.png" width="600" height="600">
 </p>
 
+<h2 align="center">
+<b>Oh, Meowst Definitely.</b>
+</h2>
+
 <p align="center">
-  <b>Oh, Meowst Definitly.</b><br>
 This upgrade features a commonly requested feature, the ability to react to ambient sound/music. It also upgrades the number of LEDs, using
 a number of addressable RGB SMD LEDs, allowing for far more complex LED patterns. It has an accelerometer to react to the wearers movement,
 changing colors/patterns with a tilt of the head, nodding etc. It has a button that will rotate through LED patterns/features, and is powered
@@ -45,6 +50,11 @@ by 2 CR2032 coin cell batteries, making sourcing power easy for a commercial use
 <p align="center">
 Hardware Block Diagram<br>
   <img src="https://github.com/SlumberParty/claires-making-embedded-systems-coursework/blob/main/week-1-exercise/hardware-block-diagram-week-1.png" width="755" height="500">
+</p>
+
+<p align="center">
+Software Block Diagram<br>
+  <img src="https://github.com/SlumberParty/claires-making-embedded-systems-coursework/blob/main/week-1-exercise/software-block-diagram-week-1.png" width="755" height="400">
 </p>
 
 
