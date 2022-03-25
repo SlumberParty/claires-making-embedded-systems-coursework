@@ -39,7 +39,7 @@ by 2 CR2032 coin cell batteries, making sourcing power easy for a commercial use
 </p>
 
 <h1 align="center">
-<b>Diagram-o-rambalam</b>
+<b>Diagram-o-ram-balam</b>
 </h1>
 
 <p align="center">
