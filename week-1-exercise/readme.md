@@ -40,7 +40,7 @@ by 2 CR2032 coin cell batteries, making sourcing power easy for a commercial use
 
 <p align="center">
 Rough Sketch-o-rama<br>
-  <img src="https://user-images.githubusercontent.com/45607652/160163077-4bf79e8f-3458-4c7b-8a96-d8dd5b13458c.png" width="600" height="600">
+  <img src="https://user-images.githubusercontent.com/45607652/160181144-425343d8-cda8-45dc-a72d-0a27a508d539.png" width="600" height="600">
 </p>
 
 
