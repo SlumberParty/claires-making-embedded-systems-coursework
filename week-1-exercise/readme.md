@@ -44,7 +44,7 @@ by 2 CR2032 coin cell batteries, making sourcing power easy for a commercial use
 
 <p align="center">
 Hardware Block Diagram<br>
-  <img src="https://github.com/SlumberParty/claires-making-embedded-systems-coursework/blob/main/week-1-exercise/hardware-block-diagram-week-1.png" width="755" height="600">
+  <img src="https://github.com/SlumberParty/claires-making-embedded-systems-coursework/blob/main/week-1-exercise/hardware-block-diagram-week-1.png" width="755" height="500">
 </p>
 
 
