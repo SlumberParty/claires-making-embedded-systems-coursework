@@ -54,7 +54,7 @@ Hardware Block Diagram<br>
 
 <p align="center">
 Software Block Diagram<br>
-  <img src="https://github.com/SlumberParty/claires-making-embedded-systems-coursework/blob/main/week-1-exercise/software-block-diagram-week-1.png" width="755" height="400">
+  <img src="https://github.com/SlumberParty/claires-making-embedded-systems-coursework/blob/main/week-1-exercise/software-block-diagram-week-1.png" width="755" height="500">
 </p>
 
 
