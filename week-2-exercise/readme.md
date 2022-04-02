@@ -41,6 +41,7 @@ No ADC
 anywhere? (Try Digikey, Mouser, Octopart, Google, and so on.)*
  
 STM32F429I-DISC1 [in stock](https://www.digikey.com/en/products/detail/stmicroelectronics/STM32F429I-DISC1/5731713) at Digikey for $29.00
+
 STM32F429ZIT6 microcontroller [not in stock](https://www.digikey.com/en/products/detail/stmicroelectronics/STM32F429ZIT6/4357427) at Digikey, 
 and [Octopart](https://octopart.com/search?q=STM32F429ZIT6+microcontroller&currency=USD&specs=0) indicates it's not in stock elsewhere either.
 
