@@ -71,7 +71,7 @@ No ADC
 - *How much does the board cost vs what the processor costs? Is the processor in stock
 anywhere? (Try Digikey, Mouser, Octopart, Google, and so on.)*
 
-STM32L152C-DISCO in stock at Digikey for $12.50
+STM32L152C-DISCO [in stock](https://www.digikey.com/en/products/detail/stmicroelectronics/STM32L152C-DISCO/4022627) at Digikey for $12.50
 
 STM32L152RBT6 microcontroller [not in stock](https://www.digikey.com/en/products/detail/stmicroelectronics/STM32L152RBT6/2640845) at Digikey, 
 and [Octopart](https://octopart.com/stm32l152rbt6-stmicroelectronics-20009211?r=sp) indicates it's not in stick elsewhere either.
